@@ -7,7 +7,6 @@ I’m a data engineer who loves numbers and big data technologies. I enjoy build
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=balu068&theme=merko&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=balu068&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=balu068&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 😂
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
